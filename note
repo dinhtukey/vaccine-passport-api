@@ -1,0 +1,8 @@
+1. install essential package: yarn add cors crypto-js dotenv jsonwebtoken mongoose nodemon
+
+
+---------------------- STATUS CODE ----------------------------------
+1. 403: Not allow - Decode token OK but not admin
+2. 401: Decode token failed
+3. 201: Create OK
+4. 200: OK
